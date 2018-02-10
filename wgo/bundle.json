@@ -1,0 +1,21 @@
+{
+  "deps": [
+    {
+      "type": "local",
+      "local-path": "/Users/sean/code/wallaroolabs/wallaroo/lib"
+    },
+    {
+      "type": "local",
+      "local-path": "/Users/sean/code/wallaroolabs/wallaroo/go_api/pony"
+    },
+    {
+      "tag": "0.3.0",
+      "type": "github",
+      "repo": "WallarooLabs/pony-kafka"
+    },
+    {
+      "type": "local",
+      "local-path": "lib"
+    }
+  ]
+}
